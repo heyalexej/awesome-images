@@ -22,6 +22,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [picography.co](http://picography.co/) - free of licences
 * [foodiesfeed.com](http://foodiesfeed.com/) - food images, free of licences
 * [wefunction.com](http://wefunction.com/category/free-photos/) - free of licences
+* [snapographic.com](http://snapographic.com/) - free of licences
 
 
 
