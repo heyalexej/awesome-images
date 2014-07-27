@@ -29,6 +29,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [splitshire.com](http://splitshire.com/) - delicious free stock photos for personal & commercial use
 * [startupstockphotos.com](http://startupstockphotos.com/) - startup related photos, free of licences
 * [superfamous.com](http://superfamous.com/) - requires attribution
+* [titania-foto.com](http://www.titania-foto.com/) - german, no attribution required, only resale on other stock image websites forbidden
 * [unsplash.com](http://unsplash.com/) - free of licences
 * [wefunction.com](http://wefunction.com/category/free-photos/) - free of licences
 
