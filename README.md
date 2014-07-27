@@ -15,6 +15,8 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [getrefe.tumblr.com](http://getrefe.tumblr.com/) - natural looking photos of people interacting with technology for personal or commercial projects
 * [littlevisuals.co](http://littlevisuals.co/) - entirely free of copyrights. updated almost daily.
 * [jaymantri.com](http://jaymantri.com/) - entirely free of copyrights. 7 new photos every thursday.
+* [superfamous.com](http://superfamous.com/) - requires attribution
+
 
 
 Contributing
