@@ -17,6 +17,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [jaymantri.com](http://jaymantri.com/) - entirely free of copyrights. 7 new photos every thursday.
 * [superfamous.com](http://superfamous.com/) - requires attribution
 * [imcreator.com](http://imcreator.com/free) - requires attribution
+* [publicdomainarchive.com](http://publicdomainarchive.com/) public domain images
 
 
 Contributing
