@@ -24,6 +24,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [wefunction.com](http://wefunction.com/category/free-photos/) - free of licences
 * [snapographic.com](http://snapographic.com/) - free of licences
 * [lockandstockphotos.com](http://lockandstockphotos.com/) - requires attribution
+* [startupstockphotos.com](http://startupstockphotos.com/) - startup related photos, free of licences
 
 
 
