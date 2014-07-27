@@ -13,6 +13,13 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [gratisography.com](http://www.gratisography.com/) - all pictures are free of copyright restrictions
 
 
+Contributing
+------------
+I want this to become a truly awesome resource. Devs should be able to take a look and choose a great resource without googling for hours.
+If you have any suggestions on how to make this better, open an issue. If you have a resource to contribute, make a pull request.
+Please just use `add resource.com` in your commit message. Make sure the provider isn't some EvilCorp™ that'll send nice letters with a hefty price tag through their attorneys later on.
+
+
 ToDo
 ----
 
