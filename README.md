@@ -20,6 +20,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [publicdomainarchive.com](http://publicdomainarchive.com/) - public domain images
 * [magdeleine.co](http://magdeleine.co/) - hand picked, most images are free of licences
 * [picography.co](http://picography.co/) - free of licences
+* [foodiesfeed.com](http://foodiesfeed.com/) - food images, free of licences
 
 
 Contributing
