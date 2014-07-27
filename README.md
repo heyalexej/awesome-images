@@ -7,6 +7,8 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [kaboompics.com](http://kaboompics.com/)
 * [unsplash.com](http://unsplash.com/)
 * [nos.twnsnd.co](http://nos.twnsnd.co/) - vintage images, free of any copyright restrictions
+* [fancycrave.com](http://fancycrave.com/) - royalty free high resolution images for your personal and commercial projects.
+* [splitshire.com](http://splitshire.com/) - delicious free stock photos for personal & commercial use.
 
 
 ToDo
