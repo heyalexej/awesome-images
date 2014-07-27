@@ -21,6 +21,8 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [magdeleine.co](http://magdeleine.co/) - hand picked, most images are free of licences
 * [picography.co](http://picography.co/) - free of licences
 * [foodiesfeed.com](http://foodiesfeed.com/) - food images, free of licences
+* [wefunction.com](http://wefunction.com/category/free-photos/) - free of licences
+
 
 
 Contributing
