@@ -5,7 +5,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 
 * [fancycrave.com](http://fancycrave.com/) - royalty free high resolution images for your personal and commercial projects
 * [foodiesfeed.com](http://foodiesfeed.com/) - food images, free of licences
-* [getrefe.tumblr.com](http://getrefe.tumblr.com/) - natural looking photos of people interacting with technology for personal or commercial projects
+* [getrefe.tumblr.com](http://getrefe.tumblr.com/) - photos of people interacting with technology for personal or commercial projects
 * [gratisography.com](http://www.gratisography.com/) - all pictures are free of copyright restrictions
 * [imcreator.com](http://imcreator.com/free) - requires attribution
 * [jaymantri.com](http://jaymantri.com/) - entirely free of copyrights. 7 new photos every thursday.
@@ -30,9 +30,17 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 
 Contributing
 ------------
+
 I want this to become a truly awesome resource. Devs should be able to take a look and choose a great resource without googling for hours.
-If you have any suggestions on how to make this better, open an issue. If you have a resource to contribute, make a pull request.
-Please just use `add resource.com` in your commit message. Make sure the provider isn't some EvilCorp™ that'll send nice letters with a hefty price tag through their attorneys later on.
+
+* If you have any suggestions on how to make this better, open an issue. 
+* If you have a resource to contribute, make a pull request.
+	Please just use `add resource.com` in your commit message. 
+* Please keep the format in alphabetical order. 
+	* In vim: Select the lines to be sorted in "Visual Line" mode with `Shift + V` and invoke the "sort" function with `:sort`.
+	* In SublimeText: Just select the lines to be sorted and hit F5. 
+
+Please make sure the provider isn't some EvilCorp™ that'll send nice letters with a hefty price tag through their attorneys later on.
 
 
 ToDo
