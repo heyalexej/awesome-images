@@ -18,7 +18,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [superfamous.com](http://superfamous.com/) - requires attribution
 * [imcreator.com](http://imcreator.com/free) - requires attribution
 * [publicdomainarchive.com](http://publicdomainarchive.com/) public domain images
-
+* [magdeleine.co](http://magdeleine.co/) hand picked, most images are free of licences
 
 Contributing
 ------------
