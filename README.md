@@ -24,6 +24,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [picjumbo.com](http://picjumbo.com/) - totally free photos for your commercial & personal works
 * [picography.co](http://picography.co/) - free of licences
 * [publicdomainarchive.com](http://publicdomainarchive.com/) - public domain images
+* [publicphoto.org](http://publicphoto.org/) - public domain photos
 * [raumrot.com](http://www.raumrot.com/)
 * [snapographic.com](http://snapographic.com/) - free of licences
 * [splitshire.com](http://splitshire.com/) - delicious free stock photos for personal & commercial use
