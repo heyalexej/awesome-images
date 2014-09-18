@@ -34,6 +34,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [titania-foto.com](http://www.titania-foto.com/) - german, no attribution required, only resale on other stock image websites forbidden
 * [unsplash.com](http://unsplash.com/) - free of licences
 * [wefunction.com](http://wefunction.com/category/free-photos/) - free of licences
+* [pexels.com](http://www.pexels.com/) - beautiful photos with free of license
 
 
 Contributing
