@@ -30,6 +30,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [publicdomainarchive.com](http://publicdomainarchive.com/) - public domain images
 * [publicphoto.org](http://publicphoto.org/) - public domain photos
 * [raumrot.com](http://www.raumrot.com/)
+* [resplashed.com](http://www.resplashed.com/) - HD images for your web and design projects. CC0.
 * [snapographic.com](http://snapographic.com/) - free of licences
 * [splitshire.com](http://splitshire.com/) - delicious free stock photos for personal & commercial use
 * [startupstockphotos.com](http://startupstockphotos.com/) - startup related photos, free of licences
@@ -38,7 +39,6 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [travelcoffeebook.com](http://travelcoffeebook.com/) 10 beautiful travel photos every 10 days. - all images are CC0
 * [unsplash.com](http://unsplash.com/) - free of licences
 * [wefunction.com](http://wefunction.com/category/free-photos/) - free of licences
-* [resplashed.com](http://www.resplashed.com/) - free HD images for your web and design projects.
 
 
 Contributing
