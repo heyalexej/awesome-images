@@ -32,6 +32,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [raumrot.com](http://www.raumrot.com/)
 * [resplashed.com](http://www.resplashed.com/) - HD images for your web and design projects. CC0.
 * [snapographic.com](http://snapographic.com/) - free of licences
+* [SpaceX](https://www.flickr.com/photos/spacexphotos) - high resolution Space-related media in the public domain
 * [splitshire.com](http://splitshire.com/) - delicious free stock photos for personal & commercial use
 * [startupstockphotos.com](http://startupstockphotos.com/) - startup related photos, free of licences
 * [stock-image-point.com](http://www.stock-image-point.com/) - mainly travel and landscape related images from a private collection. CC0.
