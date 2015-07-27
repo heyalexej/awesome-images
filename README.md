@@ -27,6 +27,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [pexels.com](http://www.pexels.com/) - beautiful collection of photos, free of licenses
 * [picjumbo.com](http://picjumbo.com/) - totally free photos for your commercial & personal works
 * [picography.co](http://picography.co/) - free of licences
+* [Pixabay](https://pixabay.com/) - CC0 photos, vector graphics, and illustrations
 * [publicdomainarchive.com](http://publicdomainarchive.com/) - public domain images
 * [publicphoto.org](http://publicphoto.org/) - public domain photos
 * [raumrot.com](http://www.raumrot.com/)
@@ -36,6 +37,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [splitshire.com](http://splitshire.com/) - delicious free stock photos for personal & commercial use
 * [startupstockphotos.com](http://startupstockphotos.com/) - startup related photos, free of licences
 * [stock-image-point.com](http://www.stock-image-point.com/) - mainly travel and landscape related images from a private collection. CC0.
+* [stocksnap.io](https://stocksnap.io/) - CC0 licensed
 * [superfamous.com](http://superfamous.com/) - requires attribution
 * [titania-foto.com](http://www.titania-foto.com/) - german, no attribution required, only resale on other stock image websites forbidden
 * [travelcoffeebook.com](http://travelcoffeebook.com/) 10 beautiful travel photos every 10 days. - all images are CC0
