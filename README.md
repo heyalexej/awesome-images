@@ -1,9 +1,9 @@
 Awesome Images [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ==============
 
-<a href="http://unsplash.com/post/82304768990/">
-<img src="http://37.media.tumblr.com/35f2a9335d8f734a0b2d353e2390abce/tumblr_n3tsqf8jzD1st5lhmo1_1280.jpg" 
-width=100% alt="dust mite" title="By Kristian Karlsson via Unsplash">
+<a href="https://unsplash.com/photos/hiAdjnXZxl8/">
+<img src="https://ununsplash.imgix.net/photo-1438109491414-7198515b166b?fit=crop&fm=jpg" 
+alt="dust mite" width="100%" title="By Benjamin Combs via Unsplash">
 </a>
 
 A curated list of amazingly awesome free (stock) photo resources for your projects. Inspired by all the other [awesome awesomeness](https://github.com/bayandin/awesome-awesomeness) out there.
