@@ -17,6 +17,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [imcreator.com](http://imcreator.com/free) - requires attribution
 * [jaymantri.com](http://jaymantri.com/) - entirely free of copyrights. 7 new photos every thursday.
 * [kaboompics.com](http://kaboompics.com/)
+* [LibreStock](http://librestock.com/) - search through many free image sites at once
 * [lifeofpix.com](http://www.lifeofpix.com/) - images for personal & commercial use. all images are donated to the public domain
 * [littlevisuals.co](http://littlevisuals.co/) - entirely free of copyrights. updated almost daily.
 * [lockandstockphotos.com](http://lockandstockphotos.com/) - requires attribution
@@ -43,6 +44,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [travelcoffeebook.com](http://travelcoffeebook.com/) 10 beautiful travel photos every 10 days. - all images are CC0
 * [unsplash.com](http://unsplash.com/) - free of licences
 * [wefunction.com](http://wefunction.com/category/free-photos/) - free of licences
+* [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) - Creative Commons licenses vary by image
 
 
 Contributing
