@@ -26,6 +26,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [moveast.me](http://moveast.me/) - a guy on a photographic journey. all images are CC0
 * [nos.twnsnd.co](http://nos.twnsnd.co/) - vintage images, free of any copyright restrictions
 * [pexels.com](http://www.pexels.com/) - beautiful collection of photos, free of licenses
+* [photostockeditor.com](http://www.photostockeditor.com/) - free high-resolution images for personal and commercial use
 * [picjumbo.com](http://picjumbo.com/) - totally free photos for your commercial & personal works
 * [picography.co](http://picography.co/) - free of licences
 * [Pixabay](https://pixabay.com/) - CC0 photos, vector graphics, and illustrations
