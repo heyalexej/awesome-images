@@ -43,7 +43,8 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [superfamous.com](http://superfamous.com/) - requires attribution
 * [titania-foto.com](http://www.titania-foto.com/) - german, no attribution required, only resale on other stock image websites forbidden
 * [travelcoffeebook.com](http://travelcoffeebook.com/) 10 beautiful travel photos every 10 days. - all images are CC0
-* [unsplash.com](http://unsplash.com/) - free of licences
+* [unsplash.com](http://unsplash.com/) - free of licences0
++* [Uhdawallpapers.org](http://www.uhdwallpapers.org/) - Most of the photos are free under CC0 or CC licenses.
 * [wefunction.com](http://wefunction.com/category/free-photos/) - free of licences
 
 
