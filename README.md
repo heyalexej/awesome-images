@@ -45,6 +45,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [travelcoffeebook.com](http://travelcoffeebook.com/) 10 beautiful travel photos every 10 days. - all images are CC0
 * [unsplash.com](http://unsplash.com/) - free of licences
 * [wefunction.com](http://wefunction.com/category/free-photos/) - free of licences
+* [photostockeditor](http://www.photostockeditor.com) - free of licences
 
 
 Contributing
