@@ -8,7 +8,6 @@ alt="dust mite" width="100%" title="By Benjamin Combs via Unsplash">
 
 A curated list of amazingly awesome free (stock) photo resources for your projects. Inspired by all the other [awesome awesomeness](https://github.com/bayandin/awesome-awesomeness) out there.
 
-* [AHoardOfPixels](http://ahoardofpixels.com/) - CC0 images, small collection.
 * [AllTheFreeStock](http://allthefreestock.com/) - CC0 images. Some of the video requires attribution
 * [burst.shopify.com](https://burst.shopify.com) - free photos for non-commercial and commercial use. No attribution required.
 * [fancycrave.com](http://fancycrave.com/) - royalty free high resolution images for your personal and commercial projects
