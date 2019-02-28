@@ -14,6 +14,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [flickr.com](https://www.flickr.com/photos/internetarchivebookimages/) - internet archive book images, no known copyright restrictions
 * [foodiesfeed.com](http://foodiesfeed.com/) - food images, free of licences
 * [getrefe.tumblr.com](http://getrefe.tumblr.com/) - photos of people interacting with technology for personal or commercial projects
+* [goodfreephotos.com](https://www.goodfreephotos.com) - Photos of different locations from across the world
 * [gratisography.com](http://www.gratisography.com/) - all pictures are free of copyright restrictions
 * [imcreator.com](http://imcreator.com/free) - requires attribution
 * [isorepublic.com](http://isorepublic.com/) - high-quality, free photos for creatives.
