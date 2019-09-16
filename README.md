@@ -69,3 +69,5 @@ ToDo
 
 * figure out which data beside the licences is interesting/important
 * figure out a good way to format and represent the data
+
+add http://www.goodfreephotos.com
