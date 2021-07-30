@@ -30,7 +30,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [photostockeditor.com](http://www.photostockeditor.com/) - free high-resolution images for personal and commercial use
 * [picjumbo.com](http://picjumbo.com/) - totally free photos for your commercial & personal works
 * [picography.co](http://picography.co/) - free of licences
-* [Pixabay](https://pixabay.com/) - CC0 photos, vector graphics, and illustrations
+* [Pixabay](https://pixabay.com/) - photos, vector graphics, and illustrations - custom license limiting commercial use
 * [publicdomainarchive.com](http://publicdomainarchive.com/) - public domain images
 * [publicphoto.org](http://publicphoto.org/) - public domain photos
 * [raumrot.com](http://www.raumrot.com/)
@@ -45,7 +45,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [superfamous.com](http://superfamous.com/) - requires attribution
 * [titania-foto.com](http://www.titania-foto.com/) - german, no attribution required, only resale on other stock image websites forbidden
 * [travelcoffeebook.com](http://travelcoffeebook.com/) 10 beautiful travel photos every 10 days. - all images are CC0
-* [unsplash.com](http://unsplash.com/) - free of licences
+* [unsplash.com](http://unsplash.com/) - photos, some are advertisings - custom license limiting commercial use
 
 
 Contributing
