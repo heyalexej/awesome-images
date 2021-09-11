@@ -40,7 +40,6 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [SpaceX](https://www.flickr.com/photos/spacexphotos) - high resolution Space-related media in the public domain
 * [splitshire.com](http://splitshire.com/) - delicious free stock photos for personal & commercial use
 * [startupstockphotos.com](http://startupstockphotos.com/) - startup related photos, free of licences
-* [stock-image-point.com](http://www.stock-image-point.com/) - mainly travel and landscape related images from a private collection. CC0.
 * [stocksnap.io](https://stocksnap.io/) - CC0 licensed
 * [superfamous.com](http://superfamous.com/) - requires attribution
 * [titania-foto.com](http://www.titania-foto.com/) - german, no attribution required, only resale on other stock image websites forbidden
