@@ -15,6 +15,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [foodiesfeed.com](http://foodiesfeed.com/) - food images, free of licences
 * [getrefe.tumblr.com](http://getrefe.tumblr.com/) - photos of people interacting with technology for personal or commercial projects
 * [gratisography.com](http://www.gratisography.com/) - all pictures are free of copyright restrictions
+* [HubbleSource](http://hubblesource.stsci.edu/sources/illustrations/) - public domain images of outer space used in Hubble press releases
 * [imcreator.com](http://imcreator.com/free) - requires attribution
 * [isorepublic.com](http://isorepublic.com/) - high-quality, free photos for creatives.
 * [jaymantri.com](http://jaymantri.com/) - entirely free of copyrights. 7 new photos every thursday.
