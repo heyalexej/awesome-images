@@ -9,12 +9,17 @@ alt="dust mite" width="100%" title="By Benjamin Combs via Unsplash">
 A curated list of amazingly awesome free (stock) photo resources for your projects. Inspired by all the other [awesome awesomeness](https://github.com/bayandin/awesome-awesomeness) out there.
 
 * [AllTheFreeStock](http://allthefreestock.com/) - CC0 images. Some of the video requires attribution
+* [altphotos.com](https://altphotos.com/) - curated collection of CC0 photos, free for commercial use, no attribution or signup required
 * [flickr.com](https://www.flickr.com/photos/internetarchivebookimages/) - internet archive book images, no known copyright restrictions
 * [foodiesfeed.com](http://foodiesfeed.com/) - food images, free of licences
+* [freerangestock.com](https://freerangestock.com/) - photos & textures, free for commercial use, no attribution; free account required to download (proprietary licence, not CC0)
 * [getrefe.tumblr.com](http://getrefe.tumblr.com/) - photos of people interacting with technology for personal or commercial projects
+* [goodfreephotos.com](https://www.goodfreephotos.com/) - public domain travel, nature & animal photos, free for commercial use, no attribution or account required
 * [gratisography.com](http://www.gratisography.com/) - all pictures are free of copyright restrictions
+* [images.nasa.gov](https://images.nasa.gov/) - NASA images/video/audio, mostly US public domain (excludes the NASA logo/insignia and third-party material)
 * [isorepublic.com](http://isorepublic.com/) - high-quality, free photos for creatives.
 * [jaymantri.com](http://jaymantri.com/) - entirely free of copyrights. 7 new photos every thursday.
+* [jeshoots.com](https://jeshoots.com/) - original (non-AI) CC0 photos & mockups, free for commercial use, no attribution required
 * [kaboompics.com](http://kaboompics.com/)
 * [lifeofpix.com](http://www.lifeofpix.com/) - images for personal & commercial use. all images are donated to the public domain
 * [littlevisuals.co](http://littlevisuals.co/) - entirely free of copyrights. updated almost daily.
@@ -38,6 +43,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [titania-foto.com](http://www.titania-foto.com/) - german, no attribution required, only resale on other stock image websites forbidden
 * [travelcoffeebook.com](http://travelcoffeebook.com/) 10 beautiful travel photos every 10 days. - all images are CC0
 * [unsplash.com](http://unsplash.com/) - photos, some are advertisings - custom license limiting commercial use
+* [vintagestockphotos.com](https://vintagestockphotos.com/) - vintage & retro photos, free for commercial use, no attribution; free account required to download; proprietary licence (no redistribution or print-on-demand), not public domain
 
 
 Contributing
@@ -51,6 +57,8 @@ I want this to become a truly awesome resource. Devs should be able to take a lo
 * Please keep the format in alphabetical order. 
 	* In vim: Select the lines to be sorted in "Visual Line" mode with `Shift + V` and invoke the "sort" function with `:sort`.
 	* In SublimeText: Just select the lines to be sorted and hit F5. 
+
+**No AI-generated image sites.** This list is for real photography and human-made illustration. Resources that primarily offer AI-generated images won't be accepted.
 
 Please make sure the provider isn't some EvilCorp™ that'll send nice letters with a hefty price tag through their attorneys later on.
 

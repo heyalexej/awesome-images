@@ -22,4 +22,5 @@ exclude = [
   "stocksnap\\.io",
   "(www\\.)?morguefile\\.com",
   "unsplash\\.com",
+  "freerangestock\\.com",
 ]
