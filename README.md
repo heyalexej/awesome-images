@@ -43,7 +43,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [titania-foto.com](http://www.titania-foto.com/) - german, no attribution required, only resale on other stock image websites forbidden
 * [travelcoffeebook.com](http://travelcoffeebook.com/) 10 beautiful travel photos every 10 days. - all images are CC0
 * [unsplash.com](http://unsplash.com/) - photos, some are advertisings - custom license limiting commercial use
-* [vintagestockphotos.com](https://vintagestockphotos.com/) - vintage & retro photos, free for commercial use, no attribution; proprietary licence (no redistribution or print-on-demand), not public domain
+* [vintagestockphotos.com](https://vintagestockphotos.com/) - vintage & retro photos, free for commercial use, no attribution; free account required to download; proprietary licence (no redistribution or print-on-demand), not public domain
 
 
 Contributing
