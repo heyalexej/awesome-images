@@ -10,7 +10,6 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 
 * [AllTheFreeStock](http://allthefreestock.com/) - CC0 images. Some of the video requires attribution
 * [altphotos.com](https://altphotos.com/) - curated collection of CC0 photos, free for commercial use, no attribution or signup required
-* [flickr.com](https://www.flickr.com/photos/internetarchivebookimages/) - internet archive book images, no known copyright restrictions
 * [foodiesfeed.com](http://foodiesfeed.com/) - food images, free of licences
 * [freerangestock.com](https://freerangestock.com/) - photos & textures, free for commercial use, no attribution; free account required to download (proprietary licence, not CC0)
 * [getrefe.tumblr.com](http://getrefe.tumblr.com/) - photos of people interacting with technology for personal or commercial projects
@@ -23,7 +22,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [kaboompics.com](http://kaboompics.com/)
 * [lifeofpix.com](http://www.lifeofpix.com/) - images for personal & commercial use. all images are donated to the public domain
 * [littlevisuals.co](http://littlevisuals.co/) - entirely free of copyrights. updated almost daily.
-* [magdeleine.co](http://magdeleine.co/) - hand picked, most images are free of licences
+* [magdeleine.co](https://magdeleine.co/) - hand-picked free stock photos, each licensed CC0/public domain or CC-BY (attribution required)
 * [morguefile.com](http://www.morguefile.com/) - no attribution required
 * [moveast.me](http://moveast.me/) - a guy on a photographic journey. all images are CC0
 * [nos.twnsnd.co](http://nos.twnsnd.co/) - vintage images, free of any copyright restrictions
@@ -35,7 +34,6 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [publicdomainarchive.com](http://publicdomainarchive.com/) - public domain images
 * [Shopify (Burst)](https://www.shopify.com/stock-photos) - free photos for personal and commercial use. No attribution required.
 * [smart.servier.com](https://smart.servier.com/) - medical illustrations, free to share and adapt commercially, attribution required
-* [SpaceX](https://www.flickr.com/photos/spacexphotos) - high resolution Space-related media in the public domain
 * [splitshire.com](http://splitshire.com/) - delicious free stock photos for personal & commercial use
 * [startupstockphotos.com](http://startupstockphotos.com/) - startup related photos, free of licences
 * [stocksnap.io](https://stocksnap.io/) - CC0 licensed
