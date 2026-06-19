@@ -1,0 +1,44 @@
+name: Links
+
+on:
+  push:
+    branches: [master]
+    paths: [README.md, lychee.toml, .github/workflows/links.yml]
+  pull_request:
+    paths: [README.md, lychee.toml, .github/workflows/links.yml]
+  schedule:
+    - cron: "0 6 * * 1" # every Monday 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  linkcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check links in README
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --config lychee.toml --no-progress README.md
+          fail: false # never hard-fail the step; we decide below per-event
+
+      # On pull requests, broken links should block the merge.
+      - name: Fail PR on broken links
+        if: ${{ github.event_name == 'pull_request' && steps.lychee.outputs.exit_code != 0 }}
+        run: |
+          echo "::error::lychee found broken links. See the job summary."
+          exit 1
+
+      # On the weekly schedule, file/refresh a tracking issue instead.
+      - name: Open issue on broken links (scheduled run)
+        if: ${{ github.event_name == 'schedule' && steps.lychee.outputs.exit_code != 0 }}
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Link checker found broken links
+          content-filepath: ./lychee/out.md
+          labels: link-rot, automated

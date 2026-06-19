@@ -1,0 +1,25 @@
+# Configuration for the lychee link checker (https://github.com/lycheeverse/lychee)
+
+# HTTP status codes treated as success.
+# 429 = rate-limited (the link exists, we were just throttled).
+accept = [200, 206, 429]
+
+# Retry/timeout tuning so transient hiccups don't fail the build.
+max_retries = 2
+retry_wait_time = 2
+timeout = 20
+
+# Look like a real browser; some hosts 403 the default agent.
+user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+
+# These hosts serve normally in a browser but return 401/403 to
+# automated/CI clients (Cloudflare / anti-bot challenges). Excluding
+# them avoids permanent false negatives. Re-check by hand occasionally.
+exclude = [
+  "kaboompics\\.com",
+  "(www\\.)?pexels\\.com",
+  "pixabay\\.com",
+  "stocksnap\\.io",
+  "(www\\.)?morguefile\\.com",
+  "unsplash\\.com",
+]
