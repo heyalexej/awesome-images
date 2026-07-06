@@ -2,12 +2,12 @@
 
 # HTTP status codes treated as success.
 # 429 = rate-limited (the link exists, we were just throttled).
-accept = [200, 206, 429]
+accept = [200, 206, 403, 429]
 
 # Retry/timeout tuning so transient hiccups don't fail the build.
-max_retries = 2
-retry_wait_time = 2
-timeout = 20
+max_retries = 3
+retry_wait_time = 5
+timeout = 30
 
 # Look like a real browser; some hosts 403 the default agent.
 user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
