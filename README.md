@@ -10,6 +10,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 
 * [AllTheFreeStock](http://allthefreestock.com/) - CC0 images. Some of the video requires attribution
 * [altphotos.com](https://altphotos.com/) - curated collection of CC0 photos, free for commercial use, no attribution or signup required
+* [clikpng.com](https://www.clikpng.com/) - 25,000+ transparent PNG cut-out images (cars, food, fruits, vegetables), free for personal & commercial use, no signup required (proprietary licence, not CC0; brand logos for editorial use only)
 * [foodiesfeed.com](http://foodiesfeed.com/) - food images, free of licences
 * [freerangestock.com](https://freerangestock.com/) - photos & textures, free for commercial use, no attribution; free account required to download (proprietary licence, not CC0)
 * [getrefe.tumblr.com](http://getrefe.tumblr.com/) - photos of people interacting with technology for personal or commercial projects
