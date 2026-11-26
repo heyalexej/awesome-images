@@ -42,6 +42,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [travelcoffeebook.com](http://travelcoffeebook.com/) 10 beautiful travel photos every 10 days. - all images are CC0
 * [unsplash.com](http://unsplash.com/) - photos, some are advertisings - custom license limiting commercial use
 * [vintagestockphotos.com](https://vintagestockphotos.com/) - vintage & retro photos, free for commercial use, no attribution; free account required to download; proprietary licence (no redistribution or print-on-demand), not public domain
+- [CreoArt Photo Editor](https://creoart.app/photo-editor) — Free, ad-free browser-local WebGPU PSD & photo editor with optional pay-as-you-go AI studio tools.
 
 
 Contributing
